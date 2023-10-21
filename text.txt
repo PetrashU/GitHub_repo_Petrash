@@ -1,2 +1,1 @@
-Text wspólny
-Tekst od gałęzi A1
+Plik dla projektu
