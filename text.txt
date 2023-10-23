@@ -1,2 +1,3 @@
 Plik dla projektu
 Time is always wrong.
+"Nowa linia"
